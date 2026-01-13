@@ -3,10 +3,10 @@
   "rounds": [
     {
       "round": 1,
-      "name": "Bahrain Grand Prix",
-      "country": "Bahrain",
+      "name": "Australian GP",
+      "country": "Australia",
       "sessions": [
-        { "type": "FP1", "startUtc": "2026-03-06T11:30:00Z" },
+        { "type": "FP1", "startUtc": "2026-03-05T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-03-06T15:00:00Z" },
         { "type": "FP3", "startUtc": "2026-03-07T11:30:00Z" },
         { "type": "Q", "startUtc": "2026-03-07T15:00:00Z" },
