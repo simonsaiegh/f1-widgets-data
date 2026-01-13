@@ -1,0 +1,22 @@
+[
+  { "id": "VER", "displayName": "Max Verstappen", "number": 1, "teamId": "TEAM_RED", "themeColor": "#3671C6" },
+  { "id": "PER", "displayName": "Sergio Perez", "number": 11, "teamId": "TEAM_RED", "themeColor": "#3671C6" },
+  { "id": "HAM", "displayName": "Lewis Hamilton", "number": 44, "teamId": "TEAM_SCARLET", "themeColor": "#E8002D" },
+  { "id": "LEC", "displayName": "Charles Leclerc", "number": 16, "teamId": "TEAM_SCARLET", "themeColor": "#E8002D" },
+  { "id": "NOR", "displayName": "Lando Norris", "number": 4, "teamId": "TEAM_ORANGE", "themeColor": "#FF8000" },
+  { "id": "PIA", "displayName": "Oscar Piastri", "number": 81, "teamId": "TEAM_ORANGE", "themeColor": "#FF8000" },
+  { "id": "RUS", "displayName": "George Russell", "number": 63, "teamId": "TEAM_SILVER", "themeColor": "#27F4D2" },
+  { "id": "ANT", "displayName": "Andrea Kimi Antonelli", "number": 12, "teamId": "TEAM_SILVER", "themeColor": "#27F4D2" },
+  { "id": "SAI", "displayName": "Carlos Sainz", "number": 55, "teamId": "TEAM_BLUE", "themeColor": "#64C4FF" },
+  { "id": "ALB", "displayName": "Alexander Albon", "number": 23, "teamId": "TEAM_BLUE", "themeColor": "#64C4FF" },
+  { "id": "ALO", "displayName": "Fernando Alonso", "number": 14, "teamId": "TEAM_GREEN", "themeColor": "#229971" },
+  { "id": "STR", "displayName": "Lance Stroll", "number": 18, "teamId": "TEAM_GREEN", "themeColor": "#229971" },
+  { "id": "GAS", "displayName": "Pierre Gasly", "number": 10, "teamId": "TEAM_ALPINE", "themeColor": "#0093CC" },
+  { "id": "DOO", "displayName": "Jack Doohan", "number": 7, "teamId": "TEAM_ALPINE", "themeColor": "#0093CC" },
+  { "id": "TSU", "displayName": "Yuki Tsunoda", "number": 22, "teamId": "TEAM_TORO", "themeColor": "#6692FF" },
+  { "id": "LAW", "displayName": "Liam Lawson", "number": 30, "teamId": "TEAM_TORO", "themeColor": "#6692FF" },
+  { "id": "BOT", "displayName": "Valtteri Bottas", "number": 77, "teamId": "TEAM_KICK", "themeColor": "#52E252" },
+  { "id": "BOR", "displayName": "Gabriel Bortoleto", "number": 5, "teamId": "TEAM_KICK", "themeColor": "#52E252" },
+  { "id": "OCO", "displayName": "Esteban Ocon", "number": 31, "teamId": "TEAM_HAAS", "themeColor": "#B6BABD" },
+  { "id": "BEA", "displayName": "Oliver Bearman", "number": 87, "teamId": "TEAM_HAAS", "themeColor": "#B6BABD" }
+]
