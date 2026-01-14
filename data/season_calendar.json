@@ -3,8 +3,8 @@
   "rounds": [
     {
       "round": 1,
-      "name": "Australian GP",
-      "country": "Australia",
+      "name": "Australian GP TEST",
+      "country": "Australia TEST",
       "sessions": [
         { "type": "FP1", "startUtc": "2026-03-05T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-03-06T15:00:00Z" },
