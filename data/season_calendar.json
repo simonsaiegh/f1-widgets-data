@@ -3,62 +3,290 @@
   "rounds": [
     {
       "round": 1,
-      "name": "Australian GP TEST",
-      "country": "Australia TEST",
+      "name": "Australian Grand Prix",
+      "country": "Australia",
       "sessions": [
-        { "type": "FP1", "startUtc": "2026-03-05T10:30:00Z" },
-        { "type": "FP2", "startUtc": "2026-03-06T15:00:00Z" },
-        { "type": "FP3", "startUtc": "2026-03-07T11:30:00Z" },
-        { "type": "Q", "startUtc": "2026-03-07T15:00:00Z" },
-        { "type": "R", "startUtc": "2026-03-08T15:00:00Z" }
+        { "type": "FP1", "startUtc": "2026-03-06T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-03-06T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-03-07T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-03-07T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-03-08T14:00:00Z" }
       ]
     },
     {
       "round": 2,
-      "name": "Saudi Arabian Grand Prix",
-      "country": "Saudi Arabia",
+      "name": "Chinese Grand Prix",
+      "country": "China",
       "sessions": [
-        { "type": "FP1", "startUtc": "2026-03-13T13:30:00Z" },
-        { "type": "FP2", "startUtc": "2026-03-13T17:00:00Z" },
-        { "type": "FP3", "startUtc": "2026-03-14T13:30:00Z" },
-        { "type": "Q", "startUtc": "2026-03-14T17:00:00Z" },
-        { "type": "R", "startUtc": "2026-03-15T17:00:00Z" }
+        { "type": "FP1", "startUtc": "2026-03-13T10:30:00Z" },
+        { "type": "SQ", "startUtc": "2026-03-13T14:00:00Z" },
+        { "type": "S", "startUtc": "2026-03-14T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-03-14T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-03-15T14:00:00Z" }
       ]
     },
     {
       "round": 3,
-      "name": "Australian Grand Prix",
-      "country": "Australia",
+      "name": "Japanese Grand Prix",
+      "country": "Japan",
       "sessions": [
-        { "type": "FP1", "startUtc": "2026-03-20T01:30:00Z" },
-        { "type": "FP2", "startUtc": "2026-03-20T05:00:00Z" },
-        { "type": "FP3", "startUtc": "2026-03-21T01:30:00Z" },
-        { "type": "Q", "startUtc": "2026-03-21T05:00:00Z" },
-        { "type": "R", "startUtc": "2026-03-22T05:00:00Z" }
+        { "type": "FP1", "startUtc": "2026-03-27T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-03-27T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-03-28T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-03-28T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-03-29T14:00:00Z" }
       ]
     },
     {
       "round": 4,
-      "name": "Japanese Grand Prix",
-      "country": "Japan",
+      "name": "Bahrain Grand Prix",
+      "country": "Bahrain",
       "sessions": [
-        { "type": "FP1", "startUtc": "2026-04-03T02:30:00Z" },
-        { "type": "FP2", "startUtc": "2026-04-03T06:00:00Z" },
-        { "type": "FP3", "startUtc": "2026-04-04T02:30:00Z" },
-        { "type": "Q", "startUtc": "2026-04-04T06:00:00Z" },
-        { "type": "R", "startUtc": "2026-04-05T06:00:00Z" }
+        { "type": "FP1", "startUtc": "2026-04-10T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-04-10T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-04-11T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-04-11T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-04-12T14:00:00Z" }
       ]
     },
     {
       "round": 5,
-      "name": "Chinese Grand Prix",
-      "country": "China",
+      "name": "Saudi Arabian Grand Prix",
+      "country": "Saudi Arabia",
       "sessions": [
-        { "type": "FP1", "startUtc": "2026-04-17T03:30:00Z" },
-        { "type": "SQ", "startUtc": "2026-04-17T07:30:00Z" },
-        { "type": "S", "startUtc": "2026-04-18T03:00:00Z" },
-        { "type": "Q", "startUtc": "2026-04-18T07:00:00Z" },
-        { "type": "R", "startUtc": "2026-04-19T07:00:00Z" }
+        { "type": "FP1", "startUtc": "2026-04-17T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-04-17T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-04-18T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-04-18T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-04-19T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 6,
+      "name": "Miami Grand Prix",
+      "country": "United States",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-05-01T10:30:00Z" },
+        { "type": "SQ", "startUtc": "2026-05-01T14:00:00Z" },
+        { "type": "S", "startUtc": "2026-05-02T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-05-02T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-05-03T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 7,
+      "name": "Canadian Grand Prix",
+      "country": "Canada",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-05-22T10:30:00Z" },
+        { "type": "SQ", "startUtc": "2026-05-22T14:00:00Z" },
+        { "type": "S", "startUtc": "2026-05-23T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-05-23T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-05-24T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 8,
+      "name": "Monaco Grand Prix",
+      "country": "Monaco",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-06-05T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-06-05T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-06-06T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-06-06T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-06-07T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 9,
+      "name": "Barcelona-Catalunya Grand Prix",
+      "country": "Spain",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-06-12T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-06-12T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-06-13T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-06-13T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-06-14T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 10,
+      "name": "Austrian Grand Prix",
+      "country": "Austria",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-06-26T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-06-26T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-06-27T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-06-27T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-06-28T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 11,
+      "name": "British Grand Prix",
+      "country": "Great Britain",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-07-03T10:30:00Z" },
+        { "type": "SQ", "startUtc": "2026-07-03T14:00:00Z" },
+        { "type": "S", "startUtc": "2026-07-04T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-07-04T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-07-05T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 12,
+      "name": "Belgian Grand Prix",
+      "country": "Belgium",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-07-17T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-07-17T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-07-18T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-07-18T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-07-19T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 13,
+      "name": "Hungarian Grand Prix",
+      "country": "Hungary",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-07-24T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-07-24T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-07-25T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-07-25T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-07-26T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 14,
+      "name": "Dutch Grand Prix",
+      "country": "Netherlands",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-08-21T10:30:00Z" },
+        { "type": "SQ", "startUtc": "2026-08-21T14:00:00Z" },
+        { "type": "S", "startUtc": "2026-08-22T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-08-22T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-08-23T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 15,
+      "name": "Italian Grand Prix",
+      "country": "Italy",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-09-04T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-09-04T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-09-05T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-09-05T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-09-06T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 16,
+      "name": "Spanish Grand Prix",
+      "country": "Spain",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-09-11T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-09-11T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-09-12T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-09-12T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-09-13T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 17,
+      "name": "Azerbaijan Grand Prix",
+      "country": "Azerbaijan",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-09-24T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-09-24T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-09-25T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-09-25T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-09-26T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 18,
+      "name": "Singapore Grand Prix",
+      "country": "Singapore",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-10-09T10:30:00Z" },
+        { "type": "SQ", "startUtc": "2026-10-09T14:00:00Z" },
+        { "type": "S", "startUtc": "2026-10-10T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-10-10T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-10-11T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 19,
+      "name": "United States Grand Prix",
+      "country": "United States",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-10-23T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-10-23T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-10-24T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-10-24T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-10-25T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 20,
+      "name": "Mexico City Grand Prix",
+      "country": "Mexico",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-10-30T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-10-30T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-10-31T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-10-31T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-11-01T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 21,
+      "name": "São Paulo Grand Prix",
+      "country": "Brazil",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-11-06T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-11-06T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-11-07T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-11-07T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-11-08T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 22,
+      "name": "Las Vegas Grand Prix",
+      "country": "United States",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-11-19T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-11-19T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-11-20T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-11-20T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-11-21T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 23,
+      "name": "Qatar Grand Prix",
+      "country": "Qatar",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-11-27T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-11-27T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-11-28T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-11-28T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-11-29T14:00:00Z" }
+      ]
+    },
+    {
+      "round": 24,
+      "name": "Abu Dhabi Grand Prix",
+      "country": "United Arab Emirates",
+      "sessions": [
+        { "type": "FP1", "startUtc": "2026-12-04T10:30:00Z" },
+        { "type": "FP2", "startUtc": "2026-12-04T14:00:00Z" },
+        { "type": "FP3", "startUtc": "2026-12-05T10:30:00Z" },
+        { "type": "Q", "startUtc": "2026-12-05T14:00:00Z" },
+        { "type": "R", "startUtc": "2026-12-06T14:00:00Z" }
       ]
     }
   ]
