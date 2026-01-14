@@ -3,7 +3,7 @@
   "round": 1,
   "updatedUtc": "2026-03-08T18:00:00Z",
   "drivers": [
-    { "id": "VER", "displayName": "Max Verstappen", "teamId": "TEAM_RED", "points": 25, "position": 1 },
+    { "id": "VER", "displayName": "Max Verstappen", "teamId": "TEAM_RED", "points": 78, "position": 1 },
     { "id": "NOR", "displayName": "Lando Norris", "teamId": "TEAM_ORANGE", "points": 18, "position": 2 },
     { "id": "LEC", "displayName": "Charles Leclerc", "teamId": "TEAM_SCARLET", "points": 15, "position": 3 },
     { "id": "SAI", "displayName": "Carlos Sainz", "teamId": "TEAM_BLUE", "points": 12, "position": 4 },
