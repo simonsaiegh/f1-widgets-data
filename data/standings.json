@@ -1,24 +1,52 @@
 {
   "season": 2026,
-  "round": 1,
-  "updatedUtc": "2026-03-08T18:00:00Z",
+  "round": 0,
+  "updatedUtc": "2026-01-01T00:00:00Z",
   "drivers": [
-    { "id": "VER", "displayName": "Max Verstappen", "teamId": "TEAM_RED", "points": 78, "position": 1 },
-    { "id": "NOR", "displayName": "Lando Norris", "teamId": "TEAM_ORANGE", "points": 18, "position": 2 },
-    { "id": "LEC", "displayName": "Charles Leclerc", "teamId": "TEAM_SCARLET", "points": 15, "position": 3 },
-    { "id": "SAI", "displayName": "Carlos Sainz", "teamId": "TEAM_BLUE", "points": 12, "position": 4 },
-    { "id": "HAM", "displayName": "Lewis Hamilton", "teamId": "TEAM_SCARLET", "points": 10, "position": 5 },
-    { "id": "RUS", "displayName": "George Russell", "teamId": "TEAM_SILVER", "points": 8, "position": 6 },
-    { "id": "PIA", "displayName": "Oscar Piastri", "teamId": "TEAM_ORANGE", "points": 6, "position": 7 },
-    { "id": "ALO", "displayName": "Fernando Alonso", "teamId": "TEAM_GREEN", "points": 4, "position": 8 },
-    { "id": "STR", "displayName": "Lance Stroll", "teamId": "TEAM_GREEN", "points": 2, "position": 9 },
-    { "id": "GAS", "displayName": "Pierre Gasly", "teamId": "TEAM_ALPINE", "points": 1, "position": 10 }
+    { "id": "VER", "displayName": "Max Verstappen", "teamId": "TEAM_RED", "points": 0, "position": 1 },
+    { "id": "HAD", "displayName": "Isack Hadjar", "teamId": "TEAM_RED", "points": 0, "position": 2 },
+
+    { "id": "NOR", "displayName": "Lando Norris", "teamId": "TEAM_ORANGE", "points": 0, "position": 3 },
+    { "id": "PIA", "displayName": "Oscar Piastri", "teamId": "TEAM_ORANGE", "points": 0, "position": 4 },
+
+    { "id": "RUS", "displayName": "George Russell", "teamId": "TEAM_SILVER", "points": 0, "position": 5 },
+    { "id": "ANT", "displayName": "Kimi Antonelli", "teamId": "TEAM_SILVER", "points": 0, "position": 6 },
+
+    { "id": "LEC", "displayName": "Charles Leclerc", "teamId": "TEAM_SCARLET", "points": 0, "position": 7 },
+    { "id": "HAM", "displayName": "Lewis Hamilton", "teamId": "TEAM_SCARLET", "points": 0, "position": 8 },
+
+    { "id": "ALO", "displayName": "Fernando Alonso", "teamId": "TEAM_GREEN", "points": 0, "position": 9 },
+    { "id": "STR", "displayName": "Lance Stroll", "teamId": "TEAM_GREEN", "points": 0, "position": 10 },
+
+    { "id": "GAS", "displayName": "Pierre Gasly", "teamId": "TEAM_ALPINE", "points": 0, "position": 11 },
+    { "id": "COL", "displayName": "Franco Colapinto", "teamId": "TEAM_ALPINE", "points": 0, "position": 12 },
+
+    { "id": "ALB", "displayName": "Alexander Albon", "teamId": "TEAM_WILLIAMS", "points": 0, "position": 13 },
+    { "id": "SAI", "displayName": "Carlos Sainz", "teamId": "TEAM_WILLIAMS", "points": 0, "position": 14 },
+
+    { "id": "OCO", "displayName": "Esteban Ocon", "teamId": "TEAM_HAAS", "points": 0, "position": 15 },
+    { "id": "BEA", "displayName": "Oliver Bearman", "teamId": "TEAM_HAAS", "points": 0, "position": 16 },
+
+    { "id": "LAW", "displayName": "Liam Lawson", "teamId": "TEAM_RB", "points": 0, "position": 17 },
+    { "id": "LIN", "displayName": "Arvid Lindblad", "teamId": "TEAM_RB", "points": 0, "position": 18 },
+
+    { "id": "HUL", "displayName": "Nico Hulkenberg", "teamId": "TEAM_AUDI", "points": 0, "position": 19 },
+    { "id": "BOR", "displayName": "Gabriel Bortoleto", "teamId": "TEAM_AUDI", "points": 0, "position": 20 },
+
+    { "id": "PER", "displayName": "Sergio Perez", "teamId": "TEAM_CADILLAC", "points": 0, "position": 21 },
+    { "id": "BOT", "displayName": "Valtteri Bottas", "teamId": "TEAM_CADILLAC", "points": 0, "position": 22 }
   ],
   "constructors": [
-    { "id": "TEAM_RED", "displayName": "Team Red", "points": 25, "position": 1 },
-    { "id": "TEAM_ORANGE", "displayName": "Team Orange", "points": 24, "position": 2 },
-    { "id": "TEAM_SCARLET", "displayName": "Team Scarlet", "points": 25, "position": 3 },
-    { "id": "TEAM_SILVER", "displayName": "Team Silver", "points": 8, "position": 4 },
-    { "id": "TEAM_GREEN", "displayName": "Team Green", "points": 6, "position": 5 }
+    { "id": "TEAM_RED", "displayName": "Red Bull Racing", "points": 0, "position": 1 },
+    { "id": "TEAM_ORANGE", "displayName": "McLaren", "points": 0, "position": 2 },
+    { "id": "TEAM_SILVER", "displayName": "Mercedes", "points": 0, "position": 3 },
+    { "id": "TEAM_SCARLET", "displayName": "Ferrari", "points": 0, "position": 4 },
+    { "id": "TEAM_GREEN", "displayName": "Aston Martin", "points": 0, "position": 5 },
+    { "id": "TEAM_ALPINE", "displayName": "Alpine", "points": 0, "position": 6 },
+    { "id": "TEAM_WILLIAMS", "displayName": "Williams", "points": 0, "position": 7 },
+    { "id": "TEAM_HAAS", "displayName": "Haas", "points": 0, "position": 8 },
+    { "id": "TEAM_RB", "displayName": "Racing Bulls", "points": 0, "position": 9 },
+    { "id": "TEAM_AUDI", "displayName": "Audi", "points": 0, "position": 10 },
+    { "id": "TEAM_CADILLAC", "displayName": "Cadillac", "points": 0, "position": 11 }
   ]
 }
