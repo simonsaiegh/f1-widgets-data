@@ -3,7 +3,7 @@
   "round": 0,
   "updatedUtc": "2026-01-01T00:00:00Z",
   "drivers": [
-    { "id": "VER", "displayName": "Max Verstappen", "teamId": "TEAM_RED", "points": 30, "position": 1 },
+    { "id": "VER", "displayName": "Max Verstappen", "teamId": "TEAM_RED", "points": 0, "position": 1 },
     { "id": "HAD", "displayName": "Isack Hadjar", "teamId": "TEAM_RED", "points": 0, "position": 2 },
 
     { "id": "NOR", "displayName": "Lando Norris", "teamId": "TEAM_ORANGE", "points": 0, "position": 3 },
@@ -37,8 +37,8 @@
     { "id": "BOT", "displayName": "Valtteri Bottas", "teamId": "TEAM_CADILLAC", "points": 0, "position": 22 }
   ],
   "constructors": [
-    { "id": "TEAM_RED", "displayName": "Red Bull Racing", "points": 0, "position": 1 },
-    { "id": "TEAM_ORANGE", "displayName": "McLaren", "points": 0, "position": 2 },
+    { "id": "TEAM_RED", "displayName": "Red Bull Racing", "points": 0, "position": 2 },
+    { "id": "TEAM_ORANGE", "displayName": "McLaren", "points": 30, "position": 1 },
     { "id": "TEAM_SILVER", "displayName": "Mercedes", "points": 0, "position": 3 },
     { "id": "TEAM_SCARLET", "displayName": "Ferrari", "points": 0, "position": 4 },
     { "id": "TEAM_GREEN", "displayName": "Aston Martin", "points": 0, "position": 5 },
