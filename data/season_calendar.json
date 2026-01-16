@@ -5,180 +5,195 @@
       "round": 1,
       "name": "Australian Grand Prix",
       "country": "Australia",
+      "race": { "laps": 58, "distanceKm": 306.124, "circuitLengthKm": 5.278 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-03-06T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-03-06T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-03-07T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-03-07T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-03-08T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-03-07T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-03-08T14:00:00Z" }
       ]
     },
     {
       "round": 2,
       "name": "Chinese Grand Prix",
       "country": "China",
+      "race": { "laps": 56, "distanceKm": 305.066, "circuitLengthKm": 5.451 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-03-13T10:30:00Z" },
-        { "type": "SQ", "startUtc": "2026-03-13T14:00:00Z" },
-        { "type": "S", "startUtc": "2026-03-14T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-03-14T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-03-15T14:00:00Z" }
+        { "type": "SQ",  "startUtc": "2026-03-13T14:00:00Z" },
+        { "type": "S",   "startUtc": "2026-03-14T10:30:00Z" },
+        { "type": "Q",   "startUtc": "2026-03-14T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-03-15T14:00:00Z" }
       ]
     },
     {
       "round": 3,
       "name": "Japanese Grand Prix",
       "country": "Japan",
+      "race": { "laps": 53, "distanceKm": 307.471, "circuitLengthKm": 5.807 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-03-27T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-03-27T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-03-28T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-03-28T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-03-29T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-03-28T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-03-29T14:00:00Z" }
       ]
     },
     {
       "round": 4,
       "name": "Bahrain Grand Prix",
       "country": "Bahrain",
+      "race": { "laps": 57, "distanceKm": 308.238, "circuitLengthKm": 5.412 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-04-10T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-04-10T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-04-11T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-04-11T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-04-12T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-04-11T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-04-12T14:00:00Z" }
       ]
     },
     {
       "round": 5,
       "name": "Saudi Arabian Grand Prix",
       "country": "Saudi Arabia",
+      "race": { "laps": 50, "distanceKm": 308.45, "circuitLengthKm": 6.174 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-04-17T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-04-17T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-04-18T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-04-18T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-04-19T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-04-18T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-04-19T14:00:00Z" }
       ]
     },
     {
       "round": 6,
       "name": "Miami Grand Prix",
       "country": "United States",
+      "race": { "laps": 57, "distanceKm": 308.326, "circuitLengthKm": 5.412 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-05-01T10:30:00Z" },
-        { "type": "SQ", "startUtc": "2026-05-01T14:00:00Z" },
-        { "type": "S", "startUtc": "2026-05-02T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-05-02T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-05-03T14:00:00Z" }
+        { "type": "SQ",  "startUtc": "2026-05-01T14:00:00Z" },
+        { "type": "S",   "startUtc": "2026-05-02T10:30:00Z" },
+        { "type": "Q",   "startUtc": "2026-05-02T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-05-03T14:00:00Z" }
       ]
     },
     {
       "round": 7,
       "name": "Canadian Grand Prix",
       "country": "Canada",
+      "race": { "laps": 70, "distanceKm": 305.27, "circuitLengthKm": 4.361 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-05-22T10:30:00Z" },
-        { "type": "SQ", "startUtc": "2026-05-22T14:00:00Z" },
-        { "type": "S", "startUtc": "2026-05-23T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-05-23T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-05-24T14:00:00Z" }
+        { "type": "SQ",  "startUtc": "2026-05-22T14:00:00Z" },
+        { "type": "S",   "startUtc": "2026-05-23T10:30:00Z" },
+        { "type": "Q",   "startUtc": "2026-05-23T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-05-24T14:00:00Z" }
       ]
     },
     {
       "round": 8,
       "name": "Monaco Grand Prix",
       "country": "Monaco",
+      "race": { "laps": 78, "distanceKm": 260.286, "circuitLengthKm": 3.337 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-06-05T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-06-05T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-06-06T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-06-06T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-06-07T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-06-06T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-06-07T14:00:00Z" }
       ]
     },
     {
       "round": 9,
       "name": "Barcelona-Catalunya Grand Prix",
       "country": "Spain",
+      "race": { "laps": 66, "distanceKm": 307.236, "circuitLengthKm": 4.657 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-06-12T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-06-12T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-06-13T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-06-13T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-06-14T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-06-13T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-06-14T14:00:00Z" }
       ]
     },
     {
       "round": 10,
       "name": "Austrian Grand Prix",
       "country": "Austria",
+      "race": { "laps": 71, "distanceKm": 306.452, "circuitLengthKm": 4.318 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-06-26T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-06-26T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-06-27T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-06-27T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-06-28T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-06-27T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-06-28T14:00:00Z" }
       ]
     },
     {
       "round": 11,
       "name": "British Grand Prix",
       "country": "Great Britain",
+      "race": { "laps": 52, "distanceKm": 306.198, "circuitLengthKm": 5.891 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-07-03T10:30:00Z" },
-        { "type": "SQ", "startUtc": "2026-07-03T14:00:00Z" },
-        { "type": "S", "startUtc": "2026-07-04T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-07-04T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-07-05T14:00:00Z" }
+        { "type": "SQ",  "startUtc": "2026-07-03T14:00:00Z" },
+        { "type": "S",   "startUtc": "2026-07-04T10:30:00Z" },
+        { "type": "Q",   "startUtc": "2026-07-04T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-07-05T14:00:00Z" }
       ]
     },
     {
       "round": 12,
       "name": "Belgian Grand Prix",
       "country": "Belgium",
+      "race": { "laps": 44, "distanceKm": 308.052, "circuitLengthKm": 7.004 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-07-17T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-07-17T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-07-18T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-07-18T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-07-19T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-07-18T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-07-19T14:00:00Z" }
       ]
     },
     {
       "round": 13,
       "name": "Hungarian Grand Prix",
       "country": "Hungary",
+      "race": { "laps": 70, "distanceKm": 306.63, "circuitLengthKm": 4.381 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-07-24T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-07-24T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-07-25T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-07-25T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-07-26T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-07-25T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-07-26T14:00:00Z" }
       ]
     },
     {
       "round": 14,
       "name": "Dutch Grand Prix",
       "country": "Netherlands",
+      "race": { "laps": 72, "distanceKm": 306.587, "circuitLengthKm": 4.259 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-08-21T10:30:00Z" },
-        { "type": "SQ", "startUtc": "2026-08-21T14:00:00Z" },
-        { "type": "S", "startUtc": "2026-08-22T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-08-22T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-08-23T14:00:00Z" }
+        { "type": "SQ",  "startUtc": "2026-08-21T14:00:00Z" },
+        { "type": "S",   "startUtc": "2026-08-22T10:30:00Z" },
+        { "type": "Q",   "startUtc": "2026-08-22T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-08-23T14:00:00Z" }
       ]
     },
     {
       "round": 15,
       "name": "Italian Grand Prix",
       "country": "Italy",
+      "race": { "laps": 53, "distanceKm": 306.72, "circuitLengthKm": 5.793 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-09-04T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-09-04T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-09-05T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-09-05T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-09-06T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-09-05T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-09-06T14:00:00Z" }
       ]
     },
     {
@@ -189,104 +204,112 @@
         { "type": "FP1", "startUtc": "2026-09-11T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-09-11T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-09-12T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-09-12T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-09-13T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-09-12T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-09-13T14:00:00Z" }
       ]
     },
     {
       "round": 17,
       "name": "Azerbaijan Grand Prix",
       "country": "Azerbaijan",
+      "race": { "laps": 51, "distanceKm": 306.049, "circuitLengthKm": 6.003 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-09-24T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-09-24T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-09-25T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-09-25T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-09-26T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-09-25T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-09-26T14:00:00Z" }
       ]
     },
     {
       "round": 18,
       "name": "Singapore Grand Prix",
       "country": "Singapore",
+      "race": { "laps": 62, "distanceKm": 306.143, "circuitLengthKm": 4.94 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-10-09T10:30:00Z" },
-        { "type": "SQ", "startUtc": "2026-10-09T14:00:00Z" },
-        { "type": "S", "startUtc": "2026-10-10T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-10-10T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-10-11T14:00:00Z" }
+        { "type": "SQ",  "startUtc": "2026-10-09T14:00:00Z" },
+        { "type": "S",   "startUtc": "2026-10-10T10:30:00Z" },
+        { "type": "Q",   "startUtc": "2026-10-10T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-10-11T14:00:00Z" }
       ]
     },
     {
       "round": 19,
       "name": "United States Grand Prix",
       "country": "United States",
+      "race": { "laps": 56, "distanceKm": 308.405, "circuitLengthKm": 5.513 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-10-23T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-10-23T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-10-24T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-10-24T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-10-25T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-10-24T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-10-25T14:00:00Z" }
       ]
     },
     {
       "round": 20,
       "name": "Mexico City Grand Prix",
       "country": "Mexico",
+      "race": { "laps": 71, "distanceKm": 305.354, "circuitLengthKm": 4.304 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-10-30T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-10-30T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-10-31T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-10-31T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-11-01T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-10-31T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-11-01T14:00:00Z" }
       ]
     },
     {
       "round": 21,
       "name": "São Paulo Grand Prix",
       "country": "Brazil",
+      "race": { "laps": 71, "distanceKm": 305.879, "circuitLengthKm": 4.309 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-11-06T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-11-06T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-11-07T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-11-07T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-11-08T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-11-07T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-11-08T14:00:00Z" }
       ]
     },
     {
       "round": 22,
       "name": "Las Vegas Grand Prix",
       "country": "United States",
+      "race": { "laps": 50, "distanceKm": 309.958, "circuitLengthKm": 6.201 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-11-19T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-11-19T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-11-20T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-11-20T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-11-21T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-11-20T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-11-21T14:00:00Z" }
       ]
     },
     {
       "round": 23,
       "name": "Qatar Grand Prix",
       "country": "Qatar",
+      "race": { "laps": 57, "distanceKm": 308.611, "circuitLengthKm": 5.419 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-11-27T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-11-27T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-11-28T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-11-28T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-11-29T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-11-28T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-11-29T14:00:00Z" }
       ]
     },
     {
       "round": 24,
       "name": "Abu Dhabi Grand Prix",
       "country": "United Arab Emirates",
+      "race": { "laps": 58, "distanceKm": 306.183, "circuitLengthKm": 5.281 },
       "sessions": [
         { "type": "FP1", "startUtc": "2026-12-04T10:30:00Z" },
         { "type": "FP2", "startUtc": "2026-12-04T14:00:00Z" },
         { "type": "FP3", "startUtc": "2026-12-05T10:30:00Z" },
-        { "type": "Q", "startUtc": "2026-12-05T14:00:00Z" },
-        { "type": "R", "startUtc": "2026-12-06T14:00:00Z" }
+        { "type": "Q",   "startUtc": "2026-12-05T14:00:00Z" },
+        { "type": "R",   "startUtc": "2026-12-06T14:00:00Z" }
       ]
     }
   ]
