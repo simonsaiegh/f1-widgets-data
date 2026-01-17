@@ -3,7 +3,7 @@
   "round": 0,
   "updatedUtc": "2026-01-01T00:00:00Z",
   "drivers": [
-    { "id": "VER", "displayName": "Max Verstappen", "teamId": "TEAM_RED", "points": 0, "position": 1 },
+    { "id": "VER", "displayName": "Max Verstappen", "teamId": "TEAM_RED", "points": 3, "position": 1 },
     { "id": "HAD", "displayName": "Isack Hadjar", "teamId": "TEAM_RED", "points": 0, "position": 2 },
 
     { "id": "NOR", "displayName": "Lando Norris", "teamId": "TEAM_ORANGE", "points": 0, "position": 3 },
